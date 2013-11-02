@@ -1,18 +1,21 @@
 Serien
 
-teste mal
+Stand 02.11.  Axel
 
 ======
 Bereits Runtergeladen
 
 Komplett ( Bereits Zuende)
 
+4400
 Band of Brothers  
 Breaking Bad
 Chapelles Show
 Chuck
 Come Fly With Me  
 Dirk Gently
+Firefly
+Futurama 
 In The Flesh
 Life  
 Life on Mars
@@ -20,20 +23,23 @@ My Name is Earl
 Six Feet Under 
 The IT Crowd
 
+
 Noch nicht abgesetzt
 
+30 Rock
 Arrow
 Boardwalk Empire  
 Community 
 Continuum
 Dr. Who
-Futurama  
 Game of Thrones
+Hell on Wheels
 House of Cards
 House of Lies  
 How I Met Your Mother 
 Justified
 Mad Men  
+Parks and Recreation
 Person of Interest
 Psych  
 Shameless US
@@ -47,25 +53,21 @@ Workaholics
 
 Unvollständig
 
-Dexter Season 8 fehlt
 
 DLC erstellt
 
-Hell on Wheels
-Firefly
 Revolution Season 1
+
 
 Gerade Downloaden
 
 Arrested Development
-Parks and Recreation
 The Pacific
 Weeds
 
+
 Noch Nicht angefangen
 
-30 Rock
-4400
 Ashes to Ashes
 Blue Mountain State
 Boston Legal
