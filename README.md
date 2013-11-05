@@ -1,6 +1,6 @@
 Serien
 
-Stand 02.11.  Axel
+Stand 05.11.  Axel
 
 ======
 Bereits Runtergeladen
@@ -28,10 +28,15 @@ Noch nicht abgesetzt
 
 30 Rock
 Arrow
+Ashes to Ashes
+Blue Mountain State
 Boardwalk Empire  
+Boston Legal
 Community 
 Continuum
 Dr. Who
+Eureka
+Falling Skies	
 Game of Thrones
 Hell on Wheels
 House of Cards
@@ -68,11 +73,7 @@ Weeds
 
 Noch Nicht angefangen
 
-Ashes to Ashes
-Blue Mountain State
-Boston Legal
-Eureka
-falling skies							
+						
 Fringe
 Generation Kill
 Grimm
