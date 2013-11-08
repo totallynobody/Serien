@@ -7,49 +7,61 @@ Bereits Runtergeladen
 
 Komplett ( Bereits Zuende)
 
-4400
-Band of Brothers  
-Breaking Bad
-Chapelles Show
-Chuck
-Come Fly With Me  
-Dirk Gently
-Firefly
-Futurama 
-In The Flesh
-Life  
-Life on Mars
-My Name is Earl
-Six Feet Under 
-The IT Crowd
+
+Band of Brothers                                                                                    
+Breaking Bad                                                                            
+Chapelles Show                                                                                
+Chuck                                                                                               
+Come Fly With Me                                                                              
+Dirk Gently                                                                                 
+Firefly                                                                                          
+Futurama                                                                                                           
+Generation Kill                                                                            
+Heroes                                                                                 
+In The Flesh                                                                            
+Life                                                                                
+Life on Mars                                                            
+My Name is Earl                                                                        
+Six Feet Under                                                                                 
+The 4400                                                                                     
+The IT Crowd                                                                        
 
 
 Noch nicht abgesetzt
 
-30 Rock
-Arrow
-Boardwalk Empire  
-Community 
-Continuum
-Dr. Who
-Game of Thrones
-Hell on Wheels
-House of Cards
-House of Lies  
-How I Met Your Mother 
-Justified
-Mad Men  
-Parks and Recreation
-Person of Interest
-Psych  
-Shameless US
-Sherlock
-South Park
-Suits
-The BIg Bang Theory
-The Walking Dead 
-Vikings 
-Workaholics
+30 Rock                                               
+Arrow                                              
+Ashes to Ashes                                                           
+Blue Mountain State                                              
+Boardwalk Empire                                                                  
+Boston Legal                                                             
+Community                                                           
+Continuum                                                       
+Dr. Who                                                        
+Eureka                                                              
+Falling Skies	                                                    
+Fringe                                                                             
+Game of Thrones                                                                            
+Grimm                                                                             
+Hell on Wheels                                                                           
+Homeland                                                                        
+House of Cards                                                                                
+House of Lies                                                                                
+How I Met Your Mother                                                                       
+Justified                                                                                    
+Lie to Me                                                                                   
+Mad Men                                                                                                
+Parks and Recreation                                                                                 
+Person of Interest                                                                          
+Psych                                                                                          
+Shameless US                                                                             
+Sherlock                                                                                    
+South Park                                                                             
+Suits                                                                                      
+The BIg Bang Theory                                                                         
+The Walking Dead                                                                       
+Vikings                                                                                
+Workaholics                                                                                   
 
 Unvollständig
 
@@ -68,17 +80,6 @@ Weeds
 
 Noch Nicht angefangen
 
-Ashes to Ashes
-Blue Mountain State
-Boston Legal
-Eureka
-falling skies							
-Fringe
-Generation Kill
-Grimm
-Heroes
-Homeland
-Lie to Me
 Monk
 New Girl
 Orange Is the New Black
